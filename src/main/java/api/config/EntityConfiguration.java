@@ -1,5 +1,6 @@
 package api.config;
 
+import services.CharacterServices;
 import services.ResponseHeadersService;
 import services.UserService;
 
@@ -16,6 +17,12 @@ public enum EntityConfiguration {
         @Override
         public Class<?> getEntityService() {
             return ResponseHeadersService.class;
+        }
+    },
+    CHARACTER {
+        @Override
+        public Class<?> getEntityService() {
+            return CharacterServices.class;
         }
     };
 
