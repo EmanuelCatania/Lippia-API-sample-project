@@ -1,6 +1,6 @@
 package ar.validar;
 
-import api.model.CharacterModel;
+import api.model.RyM.CharacterModel;
 import com.crowdar.api.rest.APIManager;
 import org.testng.Assert;
 

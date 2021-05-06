@@ -1,6 +1,6 @@
-package services;
+package services.RyM;
 
-import api.model.CharacterModel;
+import api.model.RyM.CharacterModel;
 import com.crowdar.api.rest.MethodsService;
 import com.crowdar.api.rest.Response;
 import java.util.Map;

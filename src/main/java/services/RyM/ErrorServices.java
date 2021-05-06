@@ -1,4 +1,4 @@
-package services;
+package services.RyM;
 
 import api.model.ErrorResponse;
 import com.crowdar.api.rest.MethodsService;

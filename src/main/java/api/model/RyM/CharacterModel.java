@@ -1,4 +1,4 @@
-package api.model;
+package api.model.RyM;
 
 import java.util.List;
 

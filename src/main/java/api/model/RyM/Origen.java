@@ -1,4 +1,4 @@
-package api.model;
+package api.model.RyM;
 
 public class Origen {
     private String name;
